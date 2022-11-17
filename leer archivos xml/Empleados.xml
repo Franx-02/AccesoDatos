@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+  <empleado id="1">
+    <nombre>Victor</nombre>
+    <apellidos>Romero Sanchez</apellidos>
+    <edad>62</edad>
+    <salario>1528.768640981364</salario>
+  </empleado>
+  <empleado id="2">
+    <nombre>Pedro</nombre>
+    <apellidos>Lebron Garcia</apellidos>
+    <edad>30</edad>
+    <salario>1306.0251423201157</salario>
+  </empleado>
+  <empleado id="3">
+    <nombre>Jeronimo</nombre>
+    <apellidos>Garcia Benameji</apellidos>
+    <edad>48</edad>
+    <salario>1425.803450003761</salario>
+  </empleado>
+  <empleado id="4">
+    <nombre>Manuel</nombre>
+    <apellidos>Lebron Pedrosa</apellidos>
+    <edad>53</edad>
+    <salario>991.4198280069354</salario>
+  </empleado>
+  <empleado id="5">
+    <nombre>Andres</nombre>
+    <apellidos>Borbon Pedrosa</apellidos>
+    <edad>19</edad>
+    <salario>1076.9453760075337</salario>
+  </empleado>
+  <empleado id="6">
+    <nombre>Alicia</nombre>
+    <apellidos>Romero Exposito</apellidos>
+    <edad>59</edad>
+    <salario>1237.3136285244545</salario>
+  </empleado>
+  <empleado id="7">
+    <nombre>Fermin</nombre>
+    <apellidos>Borbon Iglesias</apellidos>
+    <edad>37</edad>
+    <salario>1364.0908876969513</salario>
+  </empleado>
+  <empleado id="8">
+    <nombre>Manuel</nombre>
+    <apellidos>Ibanez Iglesias</apellidos>
+    <edad>42</edad>
+    <salario>1655.1030978234621</salario>
+  </empleado>
+  <empleado id="9">
+    <nombre>Benedicto</nombre>
+    <apellidos>Fernandez Garcia</apellidos>
+    <edad>59</edad>
+    <salario>1237.1574204542012</salario>
+  </empleado>
+  <empleado id="10">
+    <nombre>Alicia</nombre>
+    <apellidos>Sanchez Benameji</apellidos>
+    <edad>37</edad>
+    <salario>1774.484680675716</salario>
+  </empleado>
+</Empleados>
