@@ -1,0 +1,1 @@
+El java main es ConsultasTiposPoke.java

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><coches>
+  <coche id="1">
+    <marca>chevrolet</marca>
+    <modelo>ibiza</modelo>
+    <matricula>4564-ABC</matricula>
+    <numPuertas>4</numPuertas>
+	  <numPlazas>4</numPlazas>
+	  <potencia>400</potencia>
+	  <color>verde</color>
+  </coche>
+  <coche id="2">
+    <marca>Mazda</marca>
+    <modelo>6</modelo>
+    <matricula>4753-MCD</matricula>
+    <numPuertas>5</numPuertas>
+	  <numPlazas>5</numPlazas>
+	  <potencia>200</potencia>
+	  <color>Rojo Mazda</color>
+  </coche>
+  <coche id="3">
+    <marca>Audi</marca>
+    <modelo>e-tron</modelo>
+    <matricula>9634-MDR</matricula>
+    <numPuertas>5</numPuertas>
+    <numPlazas>5</numPlazas>
+    <potencia>408</potencia>
+    <color>Negro</color>
+  </coche>
+  <coche id="4">
+    <marca>Ford</marca>
+    <modelo>Mustang</modelo>
+    <matricula>8306-LGH</matricula>
+    <numPuertas>5</numPuertas>
+    <numPlazas>5</numPlazas>
+    <potencia>460</potencia>
+    <color>Blanco</color>
+  </coche>
+  <coche id="5">
+    <marca>Toyota</marca>
+    <modelo>Mirai</modelo>
+    <matricula>9374-LPH</matricula>
+    <numPuertas>5</numPuertas>
+    <numPlazas>5</numPlazas>
+    <potencia>182</potencia>
+    <color>Azul Neptuno</color>
+  </coche>
+</coches>
